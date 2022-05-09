@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <cd>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+        <country>USA</country>
+        <company>Columbia</company>
+        <price>10.90</price>
+        <year>1985</year>
+    </cd>
+    <cd>
+        <title>Toto</title>
+        <artist>Toto</artist>
+        <country>USA</country>
+        <company>Columbia records</company>
+        <price>10.56</price>
+        <year>1978</year>
+    </cd>
+    <cd>
+        <title>Nevermind</title>
+        <artist>Nirvana</artist>
+        <country>USA</country>
+        <company>DGC records</company>
+        <price>9.2</price>
+        <year>1991</year>
+    </cd>
+    <cd>
+        <title>12 bar bruise</title>
+        <artist>King Gizzard and the Lizard Wizard</artist>
+        <country>USA</country>
+        <company>Flightess</company>
+        <price>15.2</price>
+        <year>2012</year>
+    </cd>
+    <cd>
+        <title>From here to there</title>
+        <artist>Girls in Hawaii</artist>
+        <country>Belgium</country>
+        <company>China Shop Music</company>
+        <price>13</price>
+        <year>2005</year>
+    </cd>
+    <cd>
+        <title>Applause</title>
+        <artist>Balthazar</artist>
+        <country>Belgium</country>
+        <company>Munich Records</company>
+        <price>15</price>
+        <year>2010</year>
+    </cd>
+</catalog>
